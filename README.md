@@ -8,11 +8,11 @@ I stay close to the technology through architecture validation, AI agents, open-
 
 ## Current focus
 
-* Microsoft Azure AI and Microsoft Foundry
-* GitHub Copilot and AI-native software delivery
 * Enterprise AI platforms, RAG, agents and AI gateways
 * Evaluation, observability, governance, security and FinOps
 * Building and developing architecture and engineering teams
+* Microsoft Azure AI and Microsoft Foundry
+* GitHub Copilot and AI-native software delivery
 
 ## Elsewhere
 
