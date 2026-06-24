@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alexey Taranenko
 
-<!--
-**altaranenco/altaranenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help enterprises move AI from pilots to production on Microsoft Azure and GitHub.
 
-Here are some ideas to get you started:
+I lead the Microsoft Business Group team in Benelux at EPAM, growing a 20+ person team through four managers. My work spans Azure AI, GitHub Copilot, enterprise AI adoption, cloud/platform engineering and presales across Europe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I stay close to the technology through architecture validation, AI agents, open-source contributions and hands-on experiments.
+
+## Current focus
+
+* Microsoft Azure AI and Microsoft Foundry
+* GitHub Copilot and AI-native software delivery
+* Enterprise AI platforms, RAG, agents and AI gateways
+* Evaluation, observability, governance, security and FinOps
+* Building and developing architecture and engineering teams
+
+## Elsewhere
+
+* [LinkedIn](https://www.linkedin.com/in/altaranenco/)
+
+Public repositories here are intentionally sanitized and contain no client code or confidential delivery materials.
